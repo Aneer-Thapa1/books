@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins' , sans-serif;
+}
+
+.container{
+    margin-top: 30px;
+    
+}
+
+h2{
+    text-align: center;
+}
+.content{
+    display: flex;
+    width: 1000px;
+    justify-content: space-around;
+    margin: auto;
+    gap: 50px;
+    margin-top: 30px;
+    
+}
+
+.left{
+  
+   
+   
+}
+
+.left img{
+    width: 180px;
+    height: 230px;
+}
+
+.right p{
+    text-align: justify;
+    line-height: 28px;
+}
